@@ -1,0 +1,6 @@
+*.classpath
+HelloWorldApp/.project
+*.component
+HelloWorldApp/.settings/*.*
+HelloWorldApp/target/*.*
+
