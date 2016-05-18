@@ -1,6 +1,6 @@
-*.classpath
+HelloWorldApp/*.classpath
 HelloWorldApp/.project
-*.component
+HelloWorldApp/*.component
 HelloWorldApp/.settings/*.*
 HelloWorldApp/target/*.*
 
